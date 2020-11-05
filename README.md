@@ -7,4 +7,4 @@
 
 - Instagram clone (GIF EXAMPLE)
 
-![Alt Text](https://media.giphy.com/media/bys7rNs3JVLxYbaI04/giphy.gif)
+![Alt Text](https://media.giphy.com/media/9ye2H96TTHgZOFfdXg/giphy.gif)
